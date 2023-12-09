@@ -1,0 +1,90 @@
+[
+  {
+    "TerritoryID": 1,
+    "Sales": [
+      {
+        "SalesPersonID": 274,
+        "LastName": "Jiang",
+        "TotalSales": 262466
+      },
+      {
+        "SalesPersonID": 276,
+        "LastName": "Mitchell",
+        "TotalSales": 2353659
+      },
+      {
+        "SalesPersonID": 280,
+        "LastName": "Ansman-Wolfe",
+        "TotalSales": 3748246
+      },
+      {
+        "SalesPersonID": 281,
+        "LastName": "Ito",
+        "TotalSales": 848175
+      },
+      {
+        "SalesPersonID": 283,
+        "LastName": "Campbell",
+        "TotalSales": 4207895
+      },
+      {
+        "SalesPersonID": 284,
+        "LastName": "Mensa-Anan",
+        "TotalSales": 2608116
+      }
+    ],
+    "Name": "Northwest"
+  },
+  {
+    "TerritoryID": 2,
+    "Sales": [
+      {
+        "SalesPersonID": 274,
+        "LastName": "Jiang",
+        "TotalSales": 93733
+      },
+      {
+        "SalesPersonID": 275,
+        "LastName": "Blythe",
+        "TotalSales": 3301670
+      },
+      {
+        "SalesPersonID": 277,
+        "LastName": "Carson",
+        "TotalSales": 4417588
+      }
+    ],
+    "Name": "Northeast"
+  },
+  {
+    "TerritoryID": 3,
+    "Sales": [
+      {
+        "SalesPersonID": 274,
+        "LastName": "Jiang",
+        "TotalSales": 39933
+      },
+      {
+        "SalesPersonID": 275,
+        "LastName": "Blythe",
+        "TotalSales": 2899017
+      },
+      {
+        "SalesPersonID": 274,
+        "LastName": "Mitchell",
+        "TotalSales": 2077159
+      },
+      {
+        "SalesPersonID": 277,
+        "LastName": "Carson",
+        "TotalSales": 3311502
+      },
+      {
+        "SalesPersonID": 281,
+        "LastName": "Ito",
+        "TotalSales": 582372
+      }
+    ],
+    "Name": "Central"
+  }
+]
